@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--确定标题栏的颜色以及反馈色-->
+    <color name="colorPrimary">#FF4081</color>
+    <!--确定系统状态栏颜色-->
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>
